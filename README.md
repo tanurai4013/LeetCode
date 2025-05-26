@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tanurai4013/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tanurai4013/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Array
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanurai4013/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Matrix
 |  |
@@ -64,5 +66,18 @@
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanurai4013/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
