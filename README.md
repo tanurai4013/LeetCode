@@ -99,6 +99,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/tanurai4013/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tanurai4013/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/tanurai4013/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -126,4 +127,8 @@
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanurai4013/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanurai4013/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/tanurai4013/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
