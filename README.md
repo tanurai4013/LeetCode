@@ -7,6 +7,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tanurai4013/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tanurai4013/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tanurai4013/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Array
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [3194-find-words-containing-character](https://github.com/tanurai4013/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tanurai4013/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/tanurai4013/LeetCode/tree/master/3321-type-of-triangle) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tanurai4013/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tanurai4013/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
