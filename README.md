@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tanurai4013/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tanurai4013/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/tanurai4013/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/tanurai4013/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanurai4013/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -77,6 +79,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/tanurai4013/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tanurai4013/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tanurai4013/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
