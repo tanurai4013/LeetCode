@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/tanurai4013/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tanurai4013/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -36,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/tanurai4013/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanurai4013/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tanurai4013/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tanurai4013/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/tanurai4013/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/tanurai4013/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
