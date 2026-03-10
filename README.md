@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/tanurai4013/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanurai4013/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -170,6 +171,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/tanurai4013/LeetCode/tree/master/0031-next-permutation) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/tanurai4013/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
