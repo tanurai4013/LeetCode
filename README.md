@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanurai4013/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/tanurai4013/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -187,6 +188,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanurai4013/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tanurai4013/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/tanurai4013/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
