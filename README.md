@@ -18,6 +18,7 @@
 | [0031-next-permutation](https://github.com/tanurai4013/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanurai4013/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/tanurai4013/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/tanurai4013/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -53,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/tanurai4013/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2689-rearranging-fruits](https://github.com/tanurai4013/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tanurai4013/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -92,6 +94,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tanurai4013/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanurai4013/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/tanurai4013/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -223,4 +226,12 @@
 | ------- |
 | [0231-power-of-two](https://github.com/tanurai4013/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tanurai4013/LeetCode/tree/master/0326-power-of-three) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
