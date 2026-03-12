@@ -28,6 +28,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tanurai4013/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tanurai4013/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/tanurai4013/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2965-find-missing-and-repeated-values](https://github.com/tanurai4013/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3194-find-words-containing-character](https://github.com/tanurai4013/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tanurai4013/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/tanurai4013/LeetCode/tree/master/3321-type-of-triangle) |
@@ -44,6 +45,7 @@
 | [0826-soup-servings](https://github.com/tanurai4013/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/tanurai4013/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanurai4013/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/tanurai4013/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tanurai4013/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tanurai4013/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/tanurai4013/LeetCode/tree/master/3321-type-of-triangle) |
@@ -66,6 +68,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanurai4013/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanurai4013/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/tanurai4013/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2965-find-missing-and-repeated-values](https://github.com/tanurai4013/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanurai4013/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanurai4013/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tanurai4013/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -74,6 +77,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/tanurai4013/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [2965-find-missing-and-repeated-values](https://github.com/tanurai4013/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tanurai4013/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
