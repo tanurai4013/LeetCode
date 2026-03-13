@@ -18,6 +18,7 @@
 | [0031-next-permutation](https://github.com/tanurai4013/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanurai4013/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tanurai4013/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/tanurai4013/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanurai4013/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tanurai4013/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tanurai4013/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/tanurai4013/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
