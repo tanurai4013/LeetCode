@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanurai4013/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0826-soup-servings](https://github.com/tanurai4013/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/tanurai4013/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanurai4013/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/tanurai4013/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanurai4013/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -180,10 +182,12 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/tanurai4013/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/tanurai4013/LeetCode/tree/master/0042-trapping-rain-water) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/tanurai4013/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanurai4013/LeetCode/tree/master/0042-trapping-rain-water) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanurai4013/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanurai4013/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
@@ -236,4 +240,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tanurai4013/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
