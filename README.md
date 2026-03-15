@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanurai4013/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/tanurai4013/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/tanurai4013/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -21,6 +22,7 @@
 | [0042-trapping-rain-water](https://github.com/tanurai4013/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/tanurai4013/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanurai4013/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/tanurai4013/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanurai4013/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/tanurai4013/LeetCode/tree/master/0940-fruit-into-baskets) |
