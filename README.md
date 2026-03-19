@@ -8,6 +8,7 @@
 | [0152-maximum-product-subarray](https://github.com/tanurai4013/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/tanurai4013/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tanurai4013/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1143-longest-common-subsequence](https://github.com/tanurai4013/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tanurai4013/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tanurai4013/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tanurai4013/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -126,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/tanurai4013/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanurai4013/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanurai4013/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/tanurai4013/LeetCode/tree/master/3194-find-words-containing-character) |
